@@ -147,6 +147,8 @@ UPROGS=\
 	$U/_uptime\
 	$U/_sleep\
 	$U/_time1\
+	$U/_time\
+	$U/_busy\
 	$U/_grind\
 	$U/_wc\
 	$U/_zombie\
